@@ -1,8 +1,5 @@
 python-telegram-bot==20.8
 requests
 flask
-python-telegram-bot
-telegram
 nest_asyncio
 aiohttp
-binpan
